@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gerenciamento de OS</string>
+    <string name="plcholder_nome_cliente">nome do cliente</string>
+    <string name="placa">placa do carro</string>
+    <string name="ordem_servico">ordem de serviço</string>
+    <string name="modelo">modelo</string>
+    <string name="descricao">descricao</string>
+    <string name="telefone">telefone</string>
+    <string name="email">email</string>
+</resources>

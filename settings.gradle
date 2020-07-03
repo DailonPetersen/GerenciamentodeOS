@@ -1,0 +1,2 @@
+rootProject.name='Gerenciamento de OS'
+include ':app'
